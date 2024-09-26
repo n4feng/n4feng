@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @n4feng
-- 👀 I’m interested in Data Science area
-- 🌱 I’m currently learning PYTorch and basic machine learning theories
-- 💞️ I’m looking to a master degree
+- 👀 I’m master student in Dalhousie University
+- 🌱 I’m currently doing research in LLM especially in RAG area
+- 💞️ I’m looking to a academic cooperation opportunities in RAG area
 - 📫 How to reach me fnaihe@hotmail.com
 
 <!---
